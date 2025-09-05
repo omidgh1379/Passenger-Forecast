@@ -19,19 +19,20 @@ It combines **exploratory data analysis (EDA)**, **fraud/anomaly detection**, an
 
 ---
 
-## 🖼️ Visual Highlights
+### Forecast Results
 
-### Popular Destinations
-![Popular Routes](images/popular_routes.png)
+**JFK → LAX**
+![JFK-LAX Forecast](images/B6_JFK_LAX_val_plus_2025.png)
 
-### Efficient Routes
-![Efficient Routes](images/efficient_routes.png)
+**JFK → MCO**
+![JFK-MCO Forecast](images/B6_JFK_MCO_val_plus_2025.png)
 
-### Seasonal Decomposition
-![Seasonal Trends](images/seasonal_decomposition.png)
+**MCO → SJU**
+![MCO-SJU Forecast](images/B6_MCO_SJU_val_plus_2025.png)
 
-### Forecasting Results
-![Forecasting](images/forecasting_results.png)
+**LAS → DEN**
+![LAS-DEN Forecast](images/F9_LAS_DEN_val_plus_2025.png)
+
 
 ---
 
